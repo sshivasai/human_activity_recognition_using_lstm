@@ -10,10 +10,12 @@
 
 # 0 is Walking
 # 1 is Running
-
+# COUNT PLOTS
 ![940b82f2-7600-429d-9c9d-0fc94bf568bc](https://user-images.githubusercontent.com/64718250/143169733-f4b2cd4e-6e8a-4b3a-95c6-2ff1595daa7e.png)
-
+# Pair plot
 ![e0709f5f-4e43-4063-9676-08631978f43d](https://user-images.githubusercontent.com/64718250/143169782-4ffbdade-c17b-42ec-a043-1bfac5eeae0d.png)
+
+# tsne
 ![efa6fae8-ec88-4fea-bdb2-f912711d3c18](https://user-images.githubusercontent.com/64718250/143169796-e8b4a9d6-2123-4ee1-80fb-3804996a8ee1.png)
 
 T-SNE IS HELPING TO SOME EXTENT IN CLUSTERING BUT STILL NOT A GOOD SIGN FOR DECIDING
