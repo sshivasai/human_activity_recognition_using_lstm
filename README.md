@@ -10,6 +10,10 @@
 
 # 0 is Walking
 # 1 is Running
+
+#acclerometer sensors![accel_x_y_z](https://user-images.githubusercontent.com/64718250/144263701-4a8b111f-c354-4d08-9267-ea08b6346bf4.png)
+
+
 # COUNT PLOTS
 ![940b82f2-7600-429d-9c9d-0fc94bf568bc](https://user-images.githubusercontent.com/64718250/143169733-f4b2cd4e-6e8a-4b3a-95c6-2ff1595daa7e.png)
 # Pair plot
